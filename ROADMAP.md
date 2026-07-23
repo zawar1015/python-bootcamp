@@ -1,5 +1,6 @@
 # Python Bootcamp Roadmap
 
+```sql
 python-bootcamp/
 │
 ├── 01_Python_Fundamentals/
@@ -188,3 +189,5 @@ python-bootcamp/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+`
