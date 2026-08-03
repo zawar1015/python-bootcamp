@@ -1,5 +1,6 @@
 # A parameter is a variable declared in the function definition that receives data when the function is called.
 # An argument is the actual value passed into the function.
+# "An argument is a communication mechanism between the caller and the function."
 
 # Example:
 # when python see:
@@ -75,6 +76,8 @@
 # def student_info(name,age,department):
 #     print(name,age,department)
 # student_info("zawar",21,"cs")
+
+
 
 
 
