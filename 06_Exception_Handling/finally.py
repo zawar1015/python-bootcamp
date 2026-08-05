@@ -143,3 +143,22 @@
 # no matter what the user enters.
 # finally will execute.
 # output: Validation finished
+
+
+# execution flow:
+#           try
+#            │
+#            ▼
+#     Exception?
+#       │      │
+#      Yes     No
+#       │      │
+#       ▼      ▼
+#    except   else (optional)
+#       │      │
+#       └──┬───┘
+#          ▼
+#      finally
+#          │
+#          ▼
+#       Continue
