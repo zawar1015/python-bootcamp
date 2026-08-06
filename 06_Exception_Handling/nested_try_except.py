@@ -197,3 +197,40 @@
 
 
 
+# practice :
+# try:
+    
+    
+#     try:
+#         number=int(input("Enter a number : "))
+#         result = 100/number
+#         print(f"result : {result}")
+#     except ValueError:
+#         print("enter integer.")
+#     except ZeroDivisionError:
+#         print("any number cannot be divide by zero.")
+# except Exception as e:
+#     print(f"General error : ", e)
+
+
+
+# try:
+#     file = open("numbers.txt", "r")
+
+#     try:
+#         data = file.read().split()
+
+#         numbers = [int(item) for item in data]
+
+#         print("Numbers:", numbers)
+#         print("Sum:", sum(numbers))
+
+#     except ValueError as e:
+#         print(f"Invalid number found in file: {e}")
+
+#     finally:
+#         file.close()
+#         print("File closed.")
+
+# except FileNotFoundError:
+#     print("File not found.")
