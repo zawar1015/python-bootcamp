@@ -1,0 +1,3 @@
+Ali,22,Data Science
+Ahmed,21,Computer Science
+Sara,23,Artificial Intelligence
