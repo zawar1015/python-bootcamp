@@ -177,7 +177,7 @@
 
 # practice:
 
-file_name = "07_File_Handling\data\students.txt"
+file_name = "data\students.txt"
 
 total_students = 0
 total_age = 0
