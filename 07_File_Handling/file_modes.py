@@ -211,12 +211,12 @@ while True:
 
 
     if choice == "1":
-        student_id = input("input id : ")
         student_name = input("enter student`s  name : ")
+        student_age = input("input age : ")
         department = input("enter department : ")
 
         with open(file_name,"r+") as file:
-            file.write(f"{student_id} ,{student_name},{department}\n")
+            file.write(f"{student_name} ,{student_age},{department}\n")
         print("student record saved.")
 
 
@@ -236,13 +236,13 @@ while True:
             print("record file not found.")
 
     elif choice == "3":
-        student_id = input("enter id : ")
         student_name = input("enter name : ")
+        student_id = input("enter age : ")
         department = input("enter department : ")
 
 
         with open(file_name, "a") as file: 
-            file.write(f"{student_id},{student_name},{department}\n")
+            file.write(f"{student_name},{student_age},{department}\n")
         print("students appended  da kamyaby sara kho alladdin bss.")
 
 
