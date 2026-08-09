@@ -1,8 +1,6 @@
-114 ,alia,software
-
-unn
-21,Computer Science
-Sara,23,Artificial Intelligence105,farhan akhter,human rights
-107,imran,cs
-110,md,ai
-111,aadil,cs
+zawar ,21,cs
+ahmad,21,ai
+anwar,21,electrical
+allauddin,21,pschychologh
+imran bhai,21,unn hnn
+waqas,21,cs
