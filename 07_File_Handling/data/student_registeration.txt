@@ -1,0 +1,3 @@
+allauddin,90,cs
+zawar,21,cs
+waqas ali,22,ai
