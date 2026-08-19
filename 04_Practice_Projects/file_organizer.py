@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 
-source_folder = Path(r"C:\Users\zawar\Downloads")
+source_folder = Path(r"C:\Users\zawar\OneDrive\Desktop\summer linearr")
 
 
 folders = {
